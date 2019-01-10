@@ -1,0 +1,47 @@
+Decembre 2018
+--------------
+
+Objectifs: assimiler les concepts entourant Node.js
+
+source https://www.w3schools.com/nodejs/default.asp   
+
+
+
+Node.js may have been downloaded from https://nodejs.org/en/
+
+to execute myfirst.js
+----------------------
+
+1- node myfirst.js
+2- go in a browser and open locahost:8080
+
+
+
+
+
+ressources:
+-----------
+
+A few files created:
+
+-rw-r--r--   1 frodjango  staff  190 22 Dec 11:35 console.js
+-rw-r--r--   1 frodjango  staff  469 22 Dec 11:43 demo_fileserver.js
+-rw-r--r--   1 frodjango  staff  258 22 Dec 11:23 myfirst.js
+-rw-r--r--   1 frodjango  staff  258 22 Dec 11:22 myfirst.js~
+-rw-r--r--   1 frodjango  staff   57 22 Dec 11:18 myfirstmodule.js
+-rw-r--r--   1 frodjango  staff   14 22 Dec 11:38 mynewfile1.txt
+drwxr-xr-x   3 frodjango  staff   96 22 Dec 11:46 node_modules
+-rw-r--r--   1 frodjango  staff  261 22 Dec 11:46 package-lock.json
+-rw-r--r--   1 frodjango  staff   85 22 Dec 11:44 summer.html
+-rw-r--r--   1 frodjango  staff   86 22 Dec 11:44 winter.html
+
+
+-----------------------------------------------------------------------
+
+visite du site 
+
+https://nodejs.org/docs/latest-v8.x/api/synopsis.html
+
+et un autre exemple HelloWorld...
+
+
